@@ -9,42 +9,62 @@
 - 💡 My primary focus areas are **C++**, **Rust**, and **Embedded Systems**.
 - 🌐 I also maintain a strong background in web technologies with **HTML/CSS/JavaScript**, **Node.js**, and an understanding of **C#** for application development.
 - 📚 Always learning: I am dedicated to continuously reading computer science literature and exploring new development methodologies.
-- ⚔️ I love sharpening my skills through challenges on Codewars! [My Codewars Profile](https://www.codewars.com/users/BaNahes)
+- ⚔️ I love sharpening my skills through challenges on Codewars and LeetCode! 
+    - [My Codewars Profile](https://www.codewars.com/users/BaNahes)
+    - [My LeetCode Profile](https://leetcode.com/u/banahez/)
 
 ---
 
-## :hammer_and_wrench: Languages and Tools
+## :hammer_and_wrench: Tech Stack
 
 I work with a diverse set of technologies, spanning low-level and high-level development.
 
-<details>
-<summary>⚡ System & Performance Languages</summary>
-<ul>
-    <li>C++</li>
-    <li>Rust</li>
-    <li>Embedded Systems</li>
-    <li>C#</li>
-</ul>
-</details>
+### ⚡ System & Performance Languages
+* **C++** / **C**
+* **Rust**
+* **Embedded Systems** (Microcontrollers, RTOS concepts)
+* **C#**
 
-<details>
-<summary>🌐 Web & Backend Technologies</summary>
-<ul>
-    <li>JavaScript / TypeScript</li>
-    <li>Node.js (Express, Jest)</li>
-    <li>Ruby (Rails)</li>
-    <li>HTML5 / CSS3</li>
-</ul>
-</details>
+### 🌐 Web & Backend Technologies
+* **JavaScript** / **TypeScript**
+* **Node.js** (Express, Jest)
+* **Ruby** (Rails)
+* HTML5 / CSS3
 
-<details>
-<summary>🗄️ Databases & Other Tools</summary>
-<ul>
-    <li>MongoDB</li>
-    <li>MySQL</li>
-    <li>Git</li>
-    <li>Heroku</li>
-</ul>
-</details>
+### 🗄️ Databases & Other Tools
+* **MongoDB**
+* **MySQL**
+* **Git**
+* **Heroku**
+
+---
+
+## ✨ Featured Projects
+
+### 🖥️ Tiny-Operating-System (C, Assembly)
+> A simple hobby OS built from scratch, demonstrating core OS concepts like bootloading, kernel development, and basic task scheduling.
+* **Technologies:** C, Assembly, Microcontrollers.
+* **Focus:** Low-level programming, memory management.
+
+### 🎮 Arena Survival Game (C++, Custom Engine)
+> A major portfolio piece involving the development of both a custom 2D game engine and a complete game using modern C++ techniques and graphics libraries.
+* **Technologies:** Modern C++, Custom Engine, Graphics Libraries.
+* **Focus:** Game Development, Engine Architecture, Performance.
+
+### 🔐 Cpp-Password-Manager (C++)
+> A desktop password manager with a simple, native GUI written purely in C++, focusing on secure data handling and application development.
+* **Technologies:** Pure C++, GUI Libraries.
+* **Focus:** Application Security, Native GUI development.
+
+---
+
+## 📬 Contact
+
+I'm always open to discussing new projects, collaboration opportunities, or interesting challenges in systems programming and embedded space.
+
+| Platform | Link |
+| :--- | :--- |
+| **Email** | `[Your Email Address]` |
+| **LinkedIn** | `[Your LinkedIn Profile]` |
 
 ---
