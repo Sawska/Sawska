@@ -64,7 +64,7 @@ I'm always open to discussing new projects, collaboration opportunities, or inte
 
 | Platform | Link |
 | :--- | :--- |
-| **Email** | `[korzholeksander2407@gmail.com]` |
+| **Email** | korzholeksander2407@gmail.com |
 | **LinkedIn** | `[Your LinkedIn Profile]` |
 
 ---
